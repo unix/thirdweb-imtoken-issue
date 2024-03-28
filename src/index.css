@@ -1,0 +1,9 @@
+main {
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 50px 1.5em;
+  box-sizing: border-box;
+}
